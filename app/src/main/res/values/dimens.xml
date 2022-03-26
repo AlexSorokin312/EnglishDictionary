@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_in_words_of_list">30sp</dimen>
+    <dimen name="text_size_for_title_in_words_details">25sp</dimen>
+    <dimen name="text_size_for_values_in_words_details">20sp</dimen>
+    <dimen name="margin_for_item_of_the_list">5dp</dimen>
+    <dimen name="margin_top_for_list_element">18dp</dimen>
+    <dimen name="margin_left_for_list_element">5dp</dimen>
+    <dimen name="margin_top_for_saving_button_in_words_details">20dp</dimen>
+</resources>

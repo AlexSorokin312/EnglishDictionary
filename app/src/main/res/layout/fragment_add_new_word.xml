@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/searchableWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.8"
+        android:maxLength="18"
+        android:maxLines="1"
+        android:tooltipText="@string/text_for_tooltip"
+        tools:text="long English word" />
+
+    <Button
+        android:id="@+id/find_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:text="@string/text_for_add_button" />
+
+</LinearLayout>

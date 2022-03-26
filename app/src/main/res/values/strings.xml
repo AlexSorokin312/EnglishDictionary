@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnglishDictionary</string>
+    <string name="text_for_add_button">Добавить</string>
+    <string name="text_for_tooltip">Введите английское слово</string>
+    <string name="save_changes_text_button">Сохранить изменения</string>
+    <string name="translation_text">Перевод:</string>
+    <string name="transcription_text">Транскрипция:</string>
+    <string name="part_of_speech_text">Часть речи:</string>
+</resources>
